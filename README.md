@@ -1,3 +1,5 @@
+# medium link:
+https://medium.com/@zixuanliu661/building-a-binary-image-classifier-with-convolutional-neural-networks-cnn-f09fd14e82b1
 # Cat vs Dog Classification Using CNN
 
 **Project Overview**:  
